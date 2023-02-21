@@ -1,5 +1,5 @@
 <h2>Test Status </h2> 
-![test](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
  <h2>Dev Status</h2> 
 
