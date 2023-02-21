@@ -1,4 +1,4 @@
-<h2><br> Test Status </h2>                                       
+<h2>Test Status </h2>                                       
 
 ![test](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
